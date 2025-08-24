@@ -1,3 +1,4 @@
+#write a program to demonstrate class and object
 class student:
     def read(self):
         self.name = input('Enter name:')
